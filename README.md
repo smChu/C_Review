@@ -1,2 +1,2 @@
-# ROBIT_Intern_Assignment
-로빛 생활하면서 주어졌던 과제 총정리
+# C_Review
+C언어 복습
